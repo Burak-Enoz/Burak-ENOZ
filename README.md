@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+### I'm Burak, I love writing code and fixing the bugs in it!
+### I'm currently studying Artificial Intelligence Engineering and Computer Engineering Double Major at Bahcesehir University.
+
 
 <!--
 **Enoz3/Enoz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
